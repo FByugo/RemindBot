@@ -1,5 +1,7 @@
 # remindbot
 
+![demo: a real run of the tool](docs/demo.gif)
+
 A reminder bot for Telegram and Discord.
 
 ```
